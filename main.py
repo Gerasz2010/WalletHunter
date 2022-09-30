@@ -18,7 +18,7 @@ def webhook_tester():
         "embeds": [
             {
                 "author": {
-                    "name": "WalletHunter",
+                    "name": "DEADMINER V1.4",
                     "url": "https://github.com/z6o",
                     "icon_url": ""
                 },
@@ -138,13 +138,13 @@ def WalletHunter():
         ██║███╗██║██╔══██║██║     ██║     ██╔══╝     ██║       ██╔══██║██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
         ╚███╔███╔╝██║  ██║███████╗███████╗███████╗   ██║       ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
          ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-                                                        {Fore.WHITE} v.05{Fore.RESET}
+                                                {Fore.WHITE} v.1.4{Fore.RESET}
         {Fore.YELLOW}
 
-                                        {Back.RED}:: DEVS ARE NOT RESPONSIBLE FOR ANY DAMAGE ::{Back.RESET}
-                                        {Back.RED}:: SO IF SOMETHING HAPPENS ITS YUR FAULT   ::{Back.RESET}
+                                       
+                                        {Back.RED}:: hunting is staring  ::{Back.RESET}
                                                        
-                                             https://github.com/z6o/WalletHunter
+                                             
                         {Fore.RESET}
 
 
